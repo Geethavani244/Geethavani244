@@ -16,7 +16,7 @@ Hi, there Geetha Chiratala I'm a passionate SDET/QA Engineer specializing in tes
 
 
    Get in Touch:*
-- *GitHub:* 
+- *GitHub:* https://github.com/Geethavani244
 - *📫 Mail:* geethavani244@gmail.com
-- *📄 Resume Link: 
+- *📄 Resume Link: https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6728d4cd6f511f3183f5a554
   
