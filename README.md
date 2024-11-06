@@ -3,8 +3,8 @@ Hi there 👋 I'm Geetha, a dedicated Software Development Engineer in Test (SDE
 📊 Experience: Developing automated test scripts, writing detailed test cases, and performing in-depth test analyses.
 💼 Projects: Completed multiple end-to-end testing projects, including manual and automated testing for eCommerce applications.
 🌍 Location: ananthapur,andhrapradesh
-📧 Contact: geethavani244@gmail.com |
-What Do I Do?
+📧 Contact: geethavani244@gmail.com 
+|What Do I Do?
 🔍 Software Quality Assurance: Focused on ensuring bug-free and high-performance applications.
 💡 Continuous Learning: Always eager to learn new tools and testing methodologies to improve software quality.
 🧩 Problem-Solving: Enjoy debugging issues and optimizing test scripts to achieve efficiency.
@@ -15,5 +15,6 @@ What Do I Do?
 
 🖇 Let's Connect!
 📧 Email:geethavani244@gmail.com
+LinkedIn:https://www.linkedin.com/in/chirathala-geetha-0aa424193/
 
 Thanks for stopping by! 😊
